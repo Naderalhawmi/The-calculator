@@ -1,4 +1,4 @@
-You must have the visual studio instaled to open this projeket or you can flow the flowing steps:
+You must have the visual studio instaled to see the coode of this projeket or you can flow the flowing steps to open it directly :
 
 1: Download the file.
 
